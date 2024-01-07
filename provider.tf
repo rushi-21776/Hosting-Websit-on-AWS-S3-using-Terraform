@@ -13,7 +13,3 @@ provider "aws" {
   access_key = "Your access key"
   secret_key = "Your secret access key"
 }
-
-provider "github" {
-  token = "Your token"
-}
